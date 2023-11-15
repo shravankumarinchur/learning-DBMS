@@ -2,12 +2,14 @@
  
 Hey everyone,I'm here to update my DBMS learning.
 
-Here, i'm trying to build a Database for a Company
+
     
 
 
 # DAY-1:
-
+ Hello Everyone,
+ 
+ Here i'm trying to build a Database for a Company
  * created a Company database with mutliple tables such as employee , client, works_with, branch supplier table , having foreign key relation, composite keys..
  * ![Screenshot (1241)](https://github.com/shravankumarinchur/learning-DBMS/assets/103286118/ca366354-8ef2-4851-bf27-023a8583bd67)
 ## DAY-2:
