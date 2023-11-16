@@ -12,6 +12,9 @@ Hey everyone,I'm here to update my DBMS learning.
  Here i'm trying to build a Database for a Company
  * created a Company database with mutliple tables such as employee , client, works_with, branch supplier table , having foreign key relation, composite keys..
  * ![Screenshot (1241)](https://github.com/shravankumarinchur/learning-DBMS/assets/103286118/ca366354-8ef2-4851-bf27-023a8583bd67)
+
+ * ![ER2](https://github.com/shravankumarinchur/learning-DBMS/assets/103286118/4a447b02-ba5c-4d14-b525-59021a846204)
+
 ## DAY-2:
 
   * learnt SELECT to display table and WHERE to filter out the results,
